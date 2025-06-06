@@ -37,7 +37,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='Week1.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -46,11 +46,11 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+This is my first Android app! Here I learned about the structure of how apps are made, with XML being the structure and Kotlin being the added design.
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Leon Fong**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
